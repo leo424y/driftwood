@@ -3,15 +3,15 @@
 
 # Site settings
 baseurl: "/microcast" # repository name
-url: "http://soitscometothis.net" # Either custom domain or http://GithubUsername.github.io
+url: "https://leo424y.github.io/driftwood" # Either custom domain or http://GithubUsername.github.io
 
 # Podcast Feed Settings
-title:          "Driftwood" # name of your podcast
+title:          "Flyism Podcast" # name of your podcast
 email:          your-email-address # CHANGE
-description:    "A short form podcast hosted completely on Github." # CHANGE
+description:    "A qoute based podcast hosted completely on Github." # CHANGE
 subtitle:       "Size isn't everything" # CHANGE
-lang:           en-us
-author:         your-name # CHANGE
+lang:           zh-TW
+author:         flyism # CHANGE
 copyright:      "&#x2117; &amp; &#xA9; 2016"
 
 
