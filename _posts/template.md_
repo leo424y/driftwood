@@ -2,9 +2,9 @@
 layout: post
 title: 'file_title' # quotes allow forbidden characters like the colon
 date: 'file_date'
-file: /audio/file_name.mp3
-shownotes: file_name
-summary: file_name
+file: '/audio/file_name.mp3'
+shownotes: 'file_name'
+summary: 'file_name'
 duration: "file_duration" # audio length in min:sec
 length: "file_length" # filesize in bytes
 explicit: "no" # change to yes to flag with the explicit tag
